@@ -1,0 +1,5 @@
+edu/sandiego/comp375/jukebox/AudioClient.class
+edu/sandiego/comp375/jukebox/AudioPlayerThread.class
+edu/sandiego/comp375/jukebox/AudioUtil.class
+edu/sandiego/comp375/jukebox/AudioServer.class
+edu/sandiego/comp375/jukebox/AudioHeader.class
