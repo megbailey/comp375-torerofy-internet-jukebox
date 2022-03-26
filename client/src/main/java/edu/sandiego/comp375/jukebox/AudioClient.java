@@ -25,7 +25,7 @@ public class AudioClient {
 	public static void main(String[] args) throws Exception {
 		if(args.length < 2){
 			System.out.println("Please see usage: ");
-			exit(1);
+			System.exit(1);
 		}
 		//setting the host name
 		String ipAddr = args[0];
