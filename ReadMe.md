@@ -1,5 +1,5 @@
 # Torerofy - Internet Jukebox
-The Torerofy (Torero, USD mascott + Spotify) is a multi-threaded C++ Server and Java Client capable of streaming audio written for USD COMP 375 Networking using a [custom protocol](/Internet Jutebox Protocol Spec.pdf) and using epoll and non-blocking sockets for multiplexed, asynchronous I/O
+The Torerofy (Torero, USD mascott + Spotify) is a multi-threaded C++ Server and Java Client capable of streaming audio using a [custom protocol](/Internet Jutebox Protocol Spec.pdf) and using epoll and non-blocking sockets for multiplexed, asynchronous I/O
 
 The server serves mp3s located in the /music directory. Clients have the ability to list, display info, and stop songs (even mid stream!) using a simple cmdline interface or options.
 
